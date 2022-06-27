@@ -34,14 +34,17 @@ The final file structure will be like:
 │   ├── PRCC/
 │       ├── train/
 │       ├── query/
-│       ├── gallery/             
+│       ├── gallery/
+│   ├── LTCC/...
+
 ```
 
 
 ## How to train ACID 
+You can use the commond in ```run_train.sh``` to train the model. All changeable hyperameters are inclued. 
 
 
 ## How to evalute ACID 
-
+After getting the trained model, you can use the commond in ```run_test.sh``` to make the evaluation. You just need to modify the model path and the data path to your own path. 
 
 
