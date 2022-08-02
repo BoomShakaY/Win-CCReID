@@ -1,5 +1,6 @@
 # Win-CCReID
-This is the official PyTorch implementation of our paper "Win-Win by Competition: Auxiliary-Free Cloth-Changing Person Re-identification"
+This is the official PyTorch implementation of our paper "Win-Win by Competition: Auxiliary-Free Cloth-Changing Person Re-identification" 
+
 The code will be released after the paper is received.
 
 ## Overview
