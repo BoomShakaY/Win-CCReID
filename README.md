@@ -1,7 +1,7 @@
 # Win-CCReID
 This is the official PyTorch implementation of our paper "Win-Win by Competition: Auxiliary-Free Cloth-Changing Person Re-identification" 
 
-The code will be released after the paper is received.
+The code will be released soon after all school issues are finished.
 
 ## Overview
 Our model achieves a win-win situation by enriching the identity (ID)- preserving information carried by the appearance and structure features while maintaining holistic efficiency. In detail, we build a hierarchical competitive strategy that progressively accumulates meticulous ID cues with discriminating feature extraction at the global, channel, and pixel levels during model inference. After the hierarchical discriminative clues mining for appearance and structure features, enhanced ID-preserving features are crosswise-integrated to reconstruct images to reduce intra-class variations. Finally, by combing with self- and cross- ID penalties, the ACID model is trained under a generative adversarial learning framework to reduce the discrepancy with real data distribution. 
